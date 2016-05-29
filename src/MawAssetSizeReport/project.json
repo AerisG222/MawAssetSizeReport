@@ -1,0 +1,22 @@
+{
+    "title": "MawAssetSizeReport",
+    "authors": [ "Mike Morano <mmorano@mikeandwan.us>" ],
+    "description": "Tool to show storage usage",
+    "version": "0.1.0",
+    "packOptions": {
+        "licenseUrl": "https://github.com/AerisG222/MawAssetSizeReport/blob/master/LICENSE.md",
+        "projectUrl": "https://github.com/AerisG222/MawAssetSizeReport",
+        "summary": "Tool to show storage usage"
+    },
+    "buildOptions": {
+        "debugType": "portable",
+        "emitEntryPoint": true,
+        "warningsAsErrors": true
+    },
+    "commands": {
+        "run": "MawAssetSizeReport" 
+    },
+    "frameworks": {
+        "net451": { }
+    }
+}
