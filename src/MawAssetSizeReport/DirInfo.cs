@@ -1,7 +1,4 @@
-﻿using System;
-
-
-namespace MawAssetSizeReport
+﻿namespace MawAssetSizeReport
 {
 	public class DirInfo
 	{

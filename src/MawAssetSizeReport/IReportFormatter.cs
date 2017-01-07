@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
 
 namespace MawAssetSizeReport
@@ -9,4 +8,3 @@ namespace MawAssetSizeReport
 		void OutputReport(IReport report, IEnumerable<object[]> data);
 	}
 }
-
