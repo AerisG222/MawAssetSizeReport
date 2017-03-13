@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Description>Tool to show storage usage</Description>
+    <AssemblyTitle>MawAssetSizeReport</AssemblyTitle>
+    <VersionPrefix>0.1.0</VersionPrefix>
+    <Authors>Mike Morano &lt;mmorano@mikeandwan.us&gt;</Authors>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <DebugType>portable</DebugType>
+    <AssemblyName>MawAssetSizeReport</AssemblyName>
+    <OutputType>Exe</OutputType>
+    <PackageId>MawAssetSizeReport</PackageId>
+    <PackageProjectUrl>https://github.com/AerisG222/MawAssetSizeReport</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/AerisG222/MawAssetSizeReport/blob/master/LICENSE.md</PackageLicenseUrl>
+    <RuntimeFrameworkVersion>1.1.1</RuntimeFrameworkVersion>
+  </PropertyGroup>
+
+</Project>
